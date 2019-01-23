@@ -1,2 +1,2 @@
 # webpack-dev
-Webpack 4 starter kit for Front-End Dev
+Webpack 4 + ES6 + SASS
